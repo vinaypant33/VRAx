@@ -6,6 +6,6 @@ The core design of **Vrax** is focused on providing developers with the flexibil
 
 **Vrax** is still in development, and the current features include window creation, event handling, and basic UI components like buttons and text labels. As development continues, more features such as custom widgets, layout systems, and advanced rendering capabilities will be added.
 
-The library is open for contributions, and anyone interested in contributing is encouraged to fork the repo, open issues, and submit pull requests. For any inquiries or suggestions, feel free to contact me at [your.email@example.com](mailto:your.email@example.com). The documentation is in progress, and updates will be available soon. Stay tuned for future enhancements and features!
+The library is open for contributions, and anyone interested in contributing is encouraged to fork the repo, open issues, and submit pull requests. For any inquiries or suggestions, feel free to contact me at [vinaypant24@gmail.com](mailto:vinaypant24@gmail.com). The documentation is in progress, and updates will be available soon. Stay tuned for future enhancements and features!
 
 ![Vrax Logo](https://img.icons8.com/ios/50/000000/code.png)
